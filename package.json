@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Website of Bartlomiej Gasior",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bartax/portfolio.git"
+  },
+  "keywords": [
+    "website",
+    "front-end",
+    "portfolio"
+  ],
+  "author": "Bartlomiej Gasior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bartax/portfolio/issues"
+  },
+  "homepage": "https://github.com/Bartax/portfolio#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1"
+  }
+}
